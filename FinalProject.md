@@ -6,11 +6,6 @@ Project plan - November 10  (updated documentation due in Canvas November 11)
 
 ** Peer feedback on Project plans: November 13 ** <-- this is part of class participation!
 
-Functional check-off - December 1 
-
-Final Project Presentations - December 8
-
-Write-up and documentation due - December 15 
 
 ## Objective
 
